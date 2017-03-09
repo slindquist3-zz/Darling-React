@@ -1,5 +1,5 @@
 import { createStore, applyMiddleware, compose } from 'redux'
-import rootReducer from '../reducers/root-reducer'
+import rootReducer from '../reducers/root_reducer'
 import ReduxPromise from 'redux-promise'
 
 const enhancer = applyMiddleware(ReduxPromise)
