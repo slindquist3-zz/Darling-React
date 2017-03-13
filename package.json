@@ -30,7 +30,6 @@
     "redux-promise": "^0.5.3",
     "redux-promise-axios": "^0.0.8",
     "redux-promise-middleware": "^4.2.0",
-    "redux-thunk": "^2.2.0",
     "webpack": "^2.2.1"
   },
   "scripts": {
