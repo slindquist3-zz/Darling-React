@@ -11,7 +11,7 @@ export default class Checkout extends Component {
 
 
             <div className="col s10 offset-s1">
-            <h5 className="center"> <a href="http://scott-lindquist.surge.sh" className="checkoutButton waves-effect waves-light btn">See more of my work here!</a>
+            <h5 className="center"> <a href="http://scott-lindquist.surge.sh/" className="checkoutButton waves-effect waves-light btn">See more of my work here!</a>
           </h5>
           </div>
         </div>
